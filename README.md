@@ -2,9 +2,9 @@
   <img src="media/render_section.png" alt="Death Star phantom" align="center" height="500">
 </p>
 
-<h1 align="center"> "Death Star" Imaging Phantom </h1>
+# "Death Star" Imaging Phantom [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Welcome to our GitHub repository showcasing the development of a universal MRI imaging phantom, meticulously crafted to cater to a spectrum of research and clinical needs. This phantom presents a multilayered architecture nestled within a spherical shell, promising versatility and adaptability for MRI experimentation and calibration endeavors.
+Welcome to our GitHub repository showcasing the development of a universal MRI imaging phantom, meticulously crafted to cater to a spectrum of research and clinical needs. This phantom presents a multilayered architecture nestled within a spherical shell, promising versatility and adaptability for MRI experimentation and calibration endeavours.
 
 ## Features
 
@@ -21,7 +21,7 @@ Welcome to our GitHub repository showcasing the development of a universal MRI i
 
 * Each disc features mounting holes for additional modules, facilitating further customisation and experimentation.
 * Extra modules can be 3D printed using a consumer SLA printer
-* Two modules are provided: a fine resolution grid and a slice profile double-wedge
+* Two modules are provided: a fine-resolution grid and a slice profile double-wedge
 * A template for custom module design is provided
 
 ## Bill of Materials
@@ -38,7 +38,8 @@ Welcome to our GitHub repository showcasing the development of a universal MRI i
 | Eppendorf tube 0.5ml                                                 | As required |
 
 ## Assembly video
-[![Assembly video](media/render_full.png)](media/render_section.png)
+
+https://github.com/igoresso/Phantom-DeathStar/assets/33253240/f2b40d54-d948-43c9-96b6-33f2290663dc
 
 ## Acknowledgements
 
