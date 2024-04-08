@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="img/PhantomRendered.png" height="200" alt="Death Star phantom">
+  <img src="img/PhantomRendered.png" height="300" alt="Death Star phantom">
 </p>
 
 # "Death Star" Imaging Phantom [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## Bill of Materials
+## Bill of Materials~
 
 | Part                                                                 | Quantity |
 | -------------------------------------------------------------------- | -------- |
