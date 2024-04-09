@@ -34,7 +34,6 @@ Welcome to our GitHub repository showcasing the development of a universal MRI i
 | Glass-Filled Nylon Socket Head Screws M5×0.8, 20mm                   | 12          |
 | Impact-Resistant Polycarbonate Pan Head Phillips Screws M3×0.5, 10mm | 24          |
 | Tight-Seal Moisture-Resistant Acetal Barbed Tube Fitting M6×1        | 2           |
-| Tight-Seal Moisture-Resistant Acetal Barbed Tube Fitting M6×1        | 2           |
 | Eppendorf tube 0.5ml                                                 | As required |
 
 ## Assembly video
